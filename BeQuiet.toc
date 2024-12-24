@@ -1,0 +1,10 @@
+## Interface: 11403
+## Title: |cffffff00Be|cffff0000QUIET|r!
+## Notes: An addon for peace and quite by muteing player-based text communication in the chat window
+## Author: |cffe6cc80Pegga|r (|cff1eff00Broccoli|r)
+## Version: 1.0
+## Website: https://github.com/1broccoli?tab=repositories
+## SavedVariables: BeQuiet_SavedVariables
+
+## Toggles player-based text communication in the chat window
+BeQuiet.lua
