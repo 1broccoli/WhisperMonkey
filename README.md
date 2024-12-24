@@ -30,5 +30,4 @@ Slash Commands
 /bequiet fade [1-10]: Adjusts the transparency of the icon frame.
 /bequiet center: Centers the icon frame on the screen.
 
-![bequietframe](https://github.com/user-attachments/assets/fe154158-eebf-4444-8327-f43aa52fcf9d)
 ![be quiet](https://github.com/user-attachments/assets/ae4a5dfa-81b7-4cc9-9abe-b55c4560fdbf)
