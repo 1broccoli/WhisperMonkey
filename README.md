@@ -1,12 +1,9 @@
-# BeQuiet-
-BeQuiet! is a World of Warcraft addon designed to give players greater control over their chat experience. It allows users to filter out unwanted chat messages from various channels, customize the appearance of an icon frame, and manage settings through a user-friendly interface. By using BeQuiet!, players can reduce chat clutter, focus on important messages, and enjoy a more streamlined and personalized gaming experience.
+WhisperShield is a World of Warcraft addon designed to give players greater control over their chat experience. It allows users to filter out unwanted chat messages from various channels, customize the appearance of an icon frame, and manage settings through a user-friendly interface. By using WhisperShield!, players can reduce chat clutter, focus on important messages, and enjoy a more streamlined and personalized gaming experience.
+![wsmonkey](https://github.com/user-attachments/assets/8fb82d57-4a75-4e06-a247-fa76d98f27b2)
 
-![bequietoptions](https://github.com/user-attachments/assets/d994072b-8eab-48d1-a318-6e4d686ba040)
-![bequieticon](https://github.com/user-attachments/assets/530dc4bc-3b2d-4e36-8f30-e410a86ea60c)
-
+![wsc](https://github.com/user-attachments/assets/17d3b869-1bf0-4278-8dff-471f585c5257)
 
 Chat Filtering
-
 Channels: Allows users to hide messages from specific chat channels such as General, Trade, and LocalDefense.
 Say and Yell: Provides options to hide messages from the Say and Yell channels.
 Whispers: Enables users to hide whispers from non-friends and optionally auto-respond to them.
@@ -14,6 +11,7 @@ Party and Raid: Allows users to hide messages from party and raid channels, incl
 Guild and Officer: Provides options to hide messages from guild and officer channels.
 Emote: Allows users to hide emote messages.
 Battleground: Enables users to hide messages from battleground and battleground leader channels. 
+
 
 User Interface
 
@@ -24,10 +22,9 @@ Auto-Respond Feature: Automatically responds to whispers from non-friends with a
 
 Slash Commands
 
-/bequiet show: Shows the main settings frame.
-/bequiet hide: Hides the main settings frame and shows the icon frame.
-/bequiet scale [1-10]: Adjusts the size of the icon frame.
-/bequiet fade [1-10]: Adjusts the transparency of the icon frame.
-/bequiet center: Centers the icon frame on the screen.
-
-![be quiet](https://github.com/user-attachments/assets/ae4a5dfa-81b7-4cc9-9abe-b55c4560fdbf)
+/WhisperShield show: Shows the main settings frame.
+/WhisperShield: Hides the main settings frame and shows the icon frame.
+/WhisperShield [1-10]: Adjusts the size of the icon frame.
+/WhisperShield [1-10]: Adjusts the transparency of the icon frame.
+/WhisperShield: Centers the icon frame on the screen.
+![WSdemo](https://github.com/user-attachments/assets/342c690b-c486-4bcb-8ba2-d85f872ec76b)
