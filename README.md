@@ -1,4 +1,5 @@
 WhisperShield is a World of Warcraft addon designed to give players greater control over their chat experience. It allows users to filter out unwanted chat messages from various channels, customize the appearance of an icon frame, and manage settings through a user-friendly interface. By using WhisperShield!, players can reduce chat clutter, focus on important messages, and enjoy a more streamlined and personalized gaming experience.
+
 ![wsmonkey](https://github.com/user-attachments/assets/8fb82d57-4a75-4e06-a247-fa76d98f27b2)
 
 ![wsc](https://github.com/user-attachments/assets/17d3b869-1bf0-4278-8dff-471f585c5257)
