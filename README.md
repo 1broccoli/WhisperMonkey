@@ -30,3 +30,5 @@ Slash Commands
 /WhisperShield [1-10]: Adjusts the transparency of the icon frame.
 /WhisperShield: Centers the icon frame on the screen.
 ![WSdemo](https://github.com/user-attachments/assets/342c690b-c486-4bcb-8ba2-d85f872ec76b)
+
+![update](https://github.com/user-attachments/assets/7cf4d54c-1b10-4d3a-9231-8dd1bf087c71)
