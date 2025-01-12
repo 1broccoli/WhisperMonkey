@@ -1,5 +1,11 @@
 WhisperMonkey is a World of Warcraft addon designed to give players greater control over their chat experience. It allows users to filter out unwanted chat messages from various channels, customize the appearance of an icon frame, and manage settings through a user-friendly interface. By using WhisperMonkey, players can reduce chat clutter, focus on important messages, and enjoy a more streamlined and personalized gaming experience.
 
+![shang](https://github.com/user-attachments/assets/14c72492-9bfc-4f3c-bf7a-05a29a07339c)
+
+![wm3](https://github.com/user-attachments/assets/96ca0b9a-739e-47b5-a727-8f5fcc032e21)
+
+![image](https://github.com/user-attachments/assets/7110c5d0-1dff-4757-8a76-158d976aea14)
+
 
 Chat Filtering
 Channels: Allows users to hide messages from specific chat channels such as General, Trade, and LocalDefense.
@@ -25,6 +31,3 @@ Slash Commands
 /WhisperMonkey [1-10]: Adjusts the size of the icon frame.
 /WhisperMonkey [1-10]: Adjusts the transparency of the icon frame.
 /WhisperMonkey Centers the icon frame on the screen.
-![WSdemo](https://github.com/user-attachments/assets/342c690b-c486-4bcb-8ba2-d85f872ec76b)
-
-![update](https://github.com/user-attachments/assets/7cf4d54c-1b10-4d3a-9231-8dd1bf087c71)
