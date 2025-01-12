@@ -1,9 +1,5 @@
-WhisperShield is a World of Warcraft addon designed to give players greater control over their chat experience. It allows users to filter out unwanted chat messages from various channels, customize the appearance of an icon frame, and manage settings through a user-friendly interface. By using WhisperShield!, players can reduce chat clutter, focus on important messages, and enjoy a more streamlined and personalized gaming experience.
+WhisperMonkey is a World of Warcraft addon designed to give players greater control over their chat experience. It allows users to filter out unwanted chat messages from various channels, customize the appearance of an icon frame, and manage settings through a user-friendly interface. By using WhisperMonkey, players can reduce chat clutter, focus on important messages, and enjoy a more streamlined and personalized gaming experience.
 
-![wsmonkey](https://github.com/user-attachments/assets/8fb82d57-4a75-4e06-a247-fa76d98f27b2) ![update2](https://github.com/user-attachments/assets/67a031a9-2f14-4bb5-a0f1-a6d624a84a1d)
-
-
-![wsc](https://github.com/user-attachments/assets/17d3b869-1bf0-4278-8dff-471f585c5257)
 
 Chat Filtering
 Channels: Allows users to hide messages from specific chat channels such as General, Trade, and LocalDefense.
@@ -24,11 +20,11 @@ Auto-Respond Feature: Automatically responds to whispers from non-friends with a
 
 Slash Commands
 
-/WhisperShield show: Shows the main settings frame.
-/WhisperShield: Hides the main settings frame and shows the icon frame.
-/WhisperShield [1-10]: Adjusts the size of the icon frame.
-/WhisperShield [1-10]: Adjusts the transparency of the icon frame.
-/WhisperShield: Centers the icon frame on the screen.
+/WhisperMonkey show: Shows the main settings frame.
+/WhisperMonkey Hides the main settings frame and shows the icon frame.
+/WhisperMonkey [1-10]: Adjusts the size of the icon frame.
+/WhisperMonkey [1-10]: Adjusts the transparency of the icon frame.
+/WhisperMonkey Centers the icon frame on the screen.
 ![WSdemo](https://github.com/user-attachments/assets/342c690b-c486-4bcb-8ba2-d85f872ec76b)
 
 ![update](https://github.com/user-attachments/assets/7cf4d54c-1b10-4d3a-9231-8dd1bf087c71)
